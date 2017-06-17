@@ -1,6 +1,11 @@
 # Discord_widgets
 The widgets for discord guilds
 
+You just have to change the GUILD_ID instead the ID.
+# Where is the ID of my Guild ?
+Go to Server Settings > Widget
+
+Then replace the link with your ID and looks !
 https://discordapp.com/api/guilds/GUILD_ID/widget.png?style=shield
 
 
